@@ -1,0 +1,15 @@
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\bin\Debug\net7.0\arreglos.exe
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\bin\Debug\net7.0\arreglos.deps.json
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\bin\Debug\net7.0\arreglos.runtimeconfig.json
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\bin\Debug\net7.0\arreglos.dll
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\bin\Debug\net7.0\arreglos.pdb
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.csproj.AssemblyReference.cache
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.AssemblyInfoInputs.cache
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.AssemblyInfo.cs
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.dll
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\refint\arreglos.dll
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.pdb
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\arreglos.genruntimeconfig.cache
+C:\Users\casti\OneDrive\Escritorio\COSAS TERCER SEMESTRE\PROGRAMACION I\CLASE 9\arreglos\obj\Debug\net7.0\ref\arreglos.dll
